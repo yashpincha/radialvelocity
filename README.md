@@ -129,18 +129,18 @@ A literature measurement for period $P$, eccentricity $e$, the semi-amplitude $K
 | HD 3651           | Wittenmyer et al. [31] | 0.88                   | 0.03                         | 0.88                                    | 0.10                          | [36]                |
 |                  | Takeda et al. [25]     | 0.88                   | 0.03                         |                                         |                               |                     |
 |                  | Rosenthal et al.       | 0.88                   | 0.04                         |                                         |                               |                     |
-| HD 32518         | Sousa et al. [17]      | 1.16                   | 0.16                         | 1.15                                    | 0.34                          | [19]                |
-|                  | Dollinger et al. [19] | 1.13                   | 0.18                         |                                         |                               |                     |
-| HD 96127        | Sousa et al. [17]      | 1.29                   | 0.27                         | 1.10                                    | 0.52                          | [32]                |
-|                  | Gettel et al. [32]     | 0.91                   | 0.25                         |                                         |                               |                     |
-| HD 130322        | Hinkel et al.          | 0.92                   | 0.03                         | 0.92                                    | 0.27                          | [37]                |
-|                   | TICv8 [22]            | 0.93                   | 0.13                         |                                         |                               |                     |
-|                  | Ghezzi et al.          | 0.90                   | 0.11                         |                                         |                               |                     |
-| HD 192263         | Rosenthal et al. [29]  | 0.82                   | 0.03                         | 0.81                                    | 0.25                          | [23]                |
-|                 | TICv8 [22]            | 0.82                   | 0.10                         |                                         |                               |                     |
-|                 | Dragomir et al. [33]   | 0.81                   | 0.02                         |                                         |                               |                     |
-| HD 240237       | Sousa et al.           | 0.61                   | 0.08                         | 1.15                                    | 0.49                          | [32]                |
-|                 | Gettel et al. [32]     | 1.69                   | 0.41                         |                                         |                               |                     |
+| HD 32518          | Sousa et al. [17]      | 1.16                   | 0.16                         | 1.15                                    | 0.34                          | [19]                |
+|                   | Dollinger et al. [19] | 1.13                   | 0.18                         |                                         |                               |                     |
+| HD 96127           | Sousa et al. [17]      | 1.29                   | 0.27                         | 1.10                                    | 0.52                          | [32]                |
+|                    | Gettel et al. [32]     | 0.91                   | 0.25                         |                                         |                               |                     |
+| HD 130322          | Hinkel et al.          | 0.92                   | 0.03                         | 0.92                                    | 0.27                          | [37]                |
+|                     | TICv8 [22]            | 0.93                   | 0.13                         |                                         |                               |                     |
+|                     | Ghezzi et al.          | 0.90                   | 0.11                         |                                         |                               |                     |
+| HD 192263          | Rosenthal et al. [29]  | 0.82                   | 0.03                         | 0.81                                    | 0.25                          | [23]                |
+|                     | TICv8 [22]            | 0.82                   | 0.10                         |                                         |                               |                     |
+|                   | Dragomir et al. [33]   | 0.81                   | 0.02                         |                                         |                               |                     |
+| HD 240237          | Sousa et al.           | 0.61                   | 0.08                         | 1.15                                    | 0.49                          | [32]                |
+|                   | Gettel et al. [32]     | 1.69                   | 0.41                         |                                         |                               |                     |
 
 ## Results for some exoplanets. 
 
