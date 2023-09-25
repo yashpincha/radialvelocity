@@ -114,33 +114,33 @@ A literature measurement for period $P$, eccentricity $e$, the semi-amplitude $K
 |                | Dollinger et al. [19] | 1.80                   | 0.25                         |                                         |                               |                     |
 | 14 Andromedae  | Sato et al. [20]      | 1.12                   | 0.24                         | 1.16                                    | 0.43                          | [35]                |
 |                | Sousa et al. [17]      | 1.20                   | 0.19                         |                                         |                               |                     |
-| BD+14 4559     | TICv8 [22]            | 0.79                   | 0.09                         | 0.82                                    | 0.35                          | [24]                |
-|                | Niedzielski et al. [24]| 0.82                   | 0.11                         |                                         |                               |                     |
-|                | Santos et al. [23]     | 0.86                   | 0.15                         |                                         |                               |                     |
-| BD-10 3166     | TICv8 [22]            | 0.92                   | 0.11                         | 0.92                                    | 0.16                          | [36]                |
-|                | Takeda et al. [25]     | 0.92                   | 0.05                         |                                         |                               |                     |
+| BD+14 4559       | TICv8 [22]            | 0.79                   | 0.09                         | 0.82                                    | 0.35                          | [24]                |
+|                  | Niedzielski et al. [24]| 0.82                   | 0.11                         |                                         |                               |                     |
+|                  | Santos et al. [23]     | 0.86                   | 0.15                         |                                         |                               |                     |
+| BD-10 3166       | TICv8 [22]            | 0.92                   | 0.11                         | 0.92                                    | 0.16                          | [36]                |
+|                  | Takeda et al. [25]     | 0.92                   | 0.05                         |                                         |                               |                     |
 | Epsilon Borealis | Mortier et al. [26]  | 1.44                   | 0.18                         | 1.57                                    | 0.28                          | [27]                |
-|                | Lee et al. [27]        | 1.70                   | 0.11                         |                                         |                               |                     |
+|                  | Lee et al. [27]        | 1.70                   | 0.11                         |                                         |                               |                     |
 | Epsilon Eridani | Llop-Sayson et al. [28] | 0.82                 | 0.02                         | 0.83                                    | 0.10                          | [36]                |
-|                | Rosenthal et al. [29]  | 0.82                   | 0.02                         |                                         |                               |                     |
-|                | Takeda et al. [25]     | 0.85                   | 0.00                         |                                         |                               |                     |
-|                | Benedict et al. [30]   | 0.83                   | 0.05                         |                                         |                               |                     |
-| HD 2952        | Stassun et al. [39]    | 1.97                   | 0.38                         | ~                                       | ~                             | [39]                |
-| HD 3651        | Wittenmyer et al. [31] | 0.88                   | 0.03                         | 0.88                                    | 0.10                          | [36]                |
-|                | Takeda et al. [25]     | 0.88                   | 0.03                         |                                         |                               |                     |
-|                | Rosenthal et al.       | 0.88                   | 0.04                         |                                         |                               |                     |
-| HD 32518       | Sousa et al. [17]      | 1.16                   | 0.16                         | 1.15                                    | 0.34                          | [19]                |
-|                | Dollinger et al. [19] | 1.13                   | 0.18                         |                                         |                               |                     |
-| HD 96127       | Sousa et al. [17]      | 1.29                   | 0.27                         | 1.10                                    | 0.52                          | [32]                |
-|                | Gettel et al. [32]     | 0.91                   | 0.25                         |                                         |                               |                     |
-| HD 130322      | Hinkel et al.          | 0.92                   | 0.03                         | 0.92                                    | 0.27                          | [37]                |
-|                | TICv8 [22]            | 0.93                   | 0.13                         |                                         |                               |                     |
-|                | Ghezzi et al.          | 0.90                   | 0.11                         |                                         |                               |                     |
-| HD 192263      | Rosenthal et al. [29]  | 0.82                   | 0.03                         | 0.81                                    | 0.25                          | [23]                |
-|                | TICv8 [22]            | 0.82                   | 0.10                         |                                         |                               |                     |
-|                | Dragomir et al. [33]   | 0.81                   | 0.02                         |                                         |                               |                     |
-| HD 240237      | Sousa et al.           | 0.61                   | 0.08                         | 1.15                                    | 0.49                          | [32]                |
-|                | Gettel et al. [32]     | 1.69                   | 0.41                         |                                         |                               |                     |
+|                  | Rosenthal et al. [29]  | 0.82                   | 0.02                         |                                         |                               |                     |
+|                  | Takeda et al. [25]     | 0.85                   | 0.00                         |                                         |                               |                     |
+|                  | Benedict et al. [30]   | 0.83                   | 0.05                         |                                         |                               |                     |
+| HD 2952          | Stassun et al. [39]    | 1.97                   | 0.38                         | ~                                       | ~                             | [39]                |
+| HD 3651           | Wittenmyer et al. [31] | 0.88                   | 0.03                         | 0.88                                    | 0.10                          | [36]                |
+|                  | Takeda et al. [25]     | 0.88                   | 0.03                         |                                         |                               |                     |
+|                  | Rosenthal et al.       | 0.88                   | 0.04                         |                                         |                               |                     |
+| HD 32518         | Sousa et al. [17]      | 1.16                   | 0.16                         | 1.15                                    | 0.34                          | [19]                |
+|                  | Dollinger et al. [19] | 1.13                   | 0.18                         |                                         |                               |                     |
+| HD 96127        | Sousa et al. [17]      | 1.29                   | 0.27                         | 1.10                                    | 0.52                          | [32]                |
+|                  | Gettel et al. [32]     | 0.91                   | 0.25                         |                                         |                               |                     |
+| HD 130322        | Hinkel et al.          | 0.92                   | 0.03                         | 0.92                                    | 0.27                          | [37]                |
+|                   | TICv8 [22]            | 0.93                   | 0.13                         |                                         |                               |                     |
+|                  | Ghezzi et al.          | 0.90                   | 0.11                         |                                         |                               |                     |
+| HD 192263         | Rosenthal et al. [29]  | 0.82                   | 0.03                         | 0.81                                    | 0.25                          | [23]                |
+|                 | TICv8 [22]            | 0.82                   | 0.10                         |                                         |                               |                     |
+|                 | Dragomir et al. [33]   | 0.81                   | 0.02                         |                                         |                               |                     |
+| HD 240237       | Sousa et al.           | 0.61                   | 0.08                         | 1.15                                    | 0.49                          | [32]                |
+|                 | Gettel et al. [32]     | 1.69                   | 0.41                         |                                         |                               |                     |
 
 ## Results for some exoplanets. 
 
