@@ -1,0 +1,40 @@
+\bibitem{1} Newton, Isaac, 1642-1727. Newton's Principia : the Mathematical Principles of Natural Philosophy. New-York :Daniel Adee, 1846.  
+\bibitem{2} Green, R. M. 1985, Spherical Astronomy. Cambridge Univ. P., Cambridge
+\bibitem{3} Montenbruck, Oliver (1989). Practical Ephemeris Calculations. Springer-Verlag. p. 44. ISBN 0-387-50704-3.
+\bibitem{4} Meeus, Jean (1991). Astronomical Algorithms. Willmann-Bell, Inc., Richmond, VA. p. 182. ISBN 0-943396-35-2.
+\bibitem{5} Smart, W.M. Textbook on Spherical Astronomy. 6th Ed. Cambridge University Press. 1977.
+\bibitem{6} Wright, J. T., and J. D. Eastman. "Barycentric corrections at 1 cm s-1 for precise doppler velocities." Publications of the Astronomical Society of the Pacific 126.943 (2014): 838.
+\bibitem{7} Podsiadlowski, Philipp. "The Evolution of Binary Systems, in Accretion Processes in Astrophysics" (PDF). Cambridge University Press. Retrieved April 20, 2016.
+\bibitem{8} Boffin, H. M. J. (2012). "The mass-ratio distribution of spectroscopic binaries". In Arenou, F. \& Hestroffer, D. (eds.). Proceedings of the workshop "Orbital Couples: Pas de Deux in the Solar System and the Milky Way". Orbital Couples: Pas de Deux in the Solar System and the Milky Way. pp. 41–44. Bibcode:2012ocpd.conf...41B. ISBN 978-2-910015-64-0.
+\bibitem{9} VanderPlas, Jacob T. "Understanding the lomb–scargle periodogram." The Astrophysical Journal Supplement Series 236.1 (2018): 16.
+\bibitem{10} Arney, Giada N. "The K Dwarf advantage for biosignatures on directly imaged exoplanets." The Astrophysical Journal Letters 873.1 (2019): L7.
+\bibitem{11} Kaltenegger, Lisa, S. Udry, and F. Pepe. "A habitable planet around HD 85512?." arXiv preprint arXiv:1108.3561 (2011).
+\bibitem{12} Pepe, F., et al. "The HARPS search for Earth-like planets in the habitable zone-I. Very low-mass planets around HD 20794, HD 85512, and HD 192310." Astronomy \& Astrophysics 534 (2011): A58.
+\bibitem{13} Lingam, Manasvi, and Abraham Loeb. "Reduced diversity of life around Proxima Centauri and TRAPPIST-1." The Astrophysical Journal Letters 846.2 (2017): L21.
+\bibitem{14} Weidner, Carsten, and J. S. Vink. "The masses, and the mass discrepancy of O-type stars." Astronomy \& Astrophysics 524 (2010): A98.
+\bibitem{15} Baraffe, Isabelle, et al. "Evolutionary models for cool brown dwarfs and extrasolar giant planets. The case of HD 209458." Astronomy \& Astrophysics 402.2 (2003): 701-712.
+\bibitem{16} Luhn, Jacob \& Bastien, Fabienne \& Johnson, John \& Howard, Andrew \& Isaacson, Howard. (2018). Retired A Stars and Their Companions VIII: 15 New Planetary Signals Around Subgiants and Transit Parameters for California Planet Search Planets with Subgiant Hosts. 
+\bibitem{17} Sousa, S. G., et al. "Homogeneous spectroscopic parameters for bright planet host stars from the northern hemisphere-The impact on stellar and planetary mass." Astronomy \& Astrophysics 576 (2015): A94.
+\bibitem{18} Retired A Stars and Their Companions. III. Comparing the Mass-Period Distributions of Planets Around A-Type Stars and Sun-Like Stars. Brendan P. Bowler, John Asher Johnson, Geoffrey W. Marcy, Gregory W. Henry, Kathryn M.G. Peek et al. e-Print: 0912.0518 [astro-ph.EP] DOI: 10.1088/0004-637X/709/1/396. Published in: Astrophys.J. 709 (2010), 396-410
+\bibitem{19} Döllinger, M. P., et al. "Planetary companions around the K giant stars 11 Ursae Minoris and HD 32518." Astronomy \& Astrophysics 505.3 (2009): 1311-1317.
+\bibitem{20} Sato, Bun'ei, et al. "Planetary Companions to Evolved Intermediate-Mass Stars: 14 Andromedae, 81 Ceti, 6 Lyncis, and HD167042." Publications of the Astronomical Society of Japan 60.6 (2008): 1317-1326.
+\bibitem{21} Baines, Ellyn K., et al. "Fundamental parameters of 87 stars from the navy precision optical interferometer." The Astronomical Journal 155.1 (2017): 30.
+\bibitem{22} Stassun, Keivan G., et al. "The revised TESS input catalog and candidate target list." The Astronomical Journal 158.4 (2019): 138.
+\bibitem{23} Santos, N. C., et al. "SWEET-Cat: A catalogue of parameters for Stars With ExoplanETs-I. New atmospheric parameters and masses for 48 stars with planets." Astronomy \& Astrophysics 556 (2013): A150.
+\bibitem{24} Niedzielski, A., et al. "Substellar-mass companions to the K-dwarf BD+ 14 4559 and the K-giants HD 240210 and BD+ 20 2457." The Astrophysical Journal 707.1 (2009): 768.
+\bibitem{25} Takeda, Genya, et al. "Structure and evolution of nearby stars with planets. II. Physical properties of~ 1000 cool stars from the SPOCS catalog." The Astrophysical Journal Supplement Series 168.2 (2007): 297.
+\bibitem{26} Mortier, A., et al. "New and updated stellar parameters for 71 evolved planet hosts-On the metallicity–giant planet connection." Astronomy \& Astrophysics 557 (2013): A70.
+\bibitem{27} Lee, Byeong-Cheol, et al. "A planetary companion around the K giant eps Corona Borealis." arXiv preprint arXiv:1209.1187 (2012).
+\bibitem{28} Llop-Sayson, Jorge, et al. "Constraining the Orbit and Mass of epsilon Eridani b with Radial Velocities, Hipparcos IAD-Gaia DR2 Astrometry, and Multiepoch Vortex Coronagraphy Upper Limits." The Astronomical Journal 162.5 (2021): 181.
+\bibitem{29} Rosenthal, Lee J., et al. "The California Legacy Survey. I. A Catalog of 178 Planets from Precision Radial Velocity Monitoring of 719 Nearby Stars over Three Decades." The Astrophysical Journal Supplement Series 255.1 (2021): 8.
+\bibitem{30} Benedict, G. Fritz, et al. "The extrasolar planet $\epsilon$ Eridani b: orbit and mass." The Astronomical Journal 132.5 (2006): 2206.
+\bibitem{31} Wittenmyer, Robert A., et al. "A search for multi-planet systems using the Hobby–Eberly telescope." The Astrophysical Journal Supplement Series 182.1 (2009): 97.
+\bibitem{32} Gettel, S., et al. "Substellar-mass Companions to the K-giants HD 240237, BD+ 48 738, and HD 96127." The Astrophysical Journal 745.1 (2011): 28.
+\bibitem{33} Ghezzi, L., et al. "Stellar parameters and metallicities of stars hosting Jovian and Neptunian mass planets: a possible dependence of planetary mass on metallicity." The Astrophysical Journal 720.2 (2010): 1290.
+\bibitem{34} Dragomir, Diana, et al. "The HD 192263 system: planetary orbital period and stellar variability disentangled." The Astrophysical Journal 754.1 (2012): 37.
+\bibitem{35} Sato, Bun'ei, et al. "Planetary Companions to Evolved Intermediate-Mass Stars: 14 Andromedae, 81 Ceti, 6 Lyncis, and HD167042." Publications of the Astronomical Society of Japan 60.6 (2008): 1317-1326.
+\bibitem{36} Butler, R. Paul, et al. "Catalog of nearby exoplanets." The Astrophysical Journal 646.1 (2006): 505.
+\bibitem{37} Rickman, E. L., et al. "The CORALIE survey for southern extrasolar planets-XVIII. Three new massive planets and two low-mass brown dwarfs at greater than 5 AU separation." Astronomy \& Astrophysics 625 (2019): A71.
+\bibitem{38} Kunitomo, Masanobu, et al. "PLANET ENGULFMENT BY∼ 1.5–3 M\☉ RED GIANTS." The Astrophysical Journal 737.2 (2011): 66.
+\bibitem{39} Stassun, Keivan G., Karen A. Collins, and B. Scott Gaudi. "Accurate empirical radii and masses of planets and their host stars with Gaia parallaxes." The Astronomical Journal 153.3 (2017): 136.
+\bibitem{40} Wittenmyer, Robert A., et al. "Truly eccentric–I. Revisiting eight single-eccentric planetary systems." Monthly Notices of the Royal Astronomical Society 484.4 (2019): 5859-5867.
