@@ -82,7 +82,7 @@ For a known mass $M_1$, an estimate for $M_{2, {\mathrm{min}}}$ can be determine
 ```math
     {\displaystyle f\approx {\frac {M_{2}^{3}\ \mathrm {sin} ^{3}i}{M_{1}^{2}}}.}
 ```
-And in the case of $e \neq 0$, the mass function is \cite{8},
+And in the case of $e \neq 0$, the mass function is [8],
 ```math
     f \equiv \frac{(M_2\sin i)^3}{(M_1 + M_2)^2} = \frac{PK^3}{2\pi G}(1-e^2)^{(3/2)}
 ```
